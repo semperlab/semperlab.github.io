@@ -10,7 +10,7 @@ permalink:        pretty
 title:            SemperLab
 description:      'Social, Emotion, Personality'
 url:              https://semperlab.github.io
-baseurl:          /
+baseurl:          ""
 
 
 paginate:         5
