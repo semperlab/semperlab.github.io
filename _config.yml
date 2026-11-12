@@ -1,20 +1,26 @@
 # Dependencies
-markdown:         kramdown
 highlighter:      rouge
+
+plugins:
+  - jekyll-commonmark
+
+markdown: CommonMark
+commonmark:
+  extensions: ["autolink"]
 
 # Permalinks
 permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            SemperLab
+title:            SEMPERLab
 description:      'Social, Emotion, Personality'
 url:              https://semperlab.github.io
 baseurl:          ""
 
 
-paginate:         5
-plugins:          [jekyll-paginate]
+# paginate:         5
+# plugins:          [jekyll-paginate]
 
 github:
   repo:           https://github.com/semperlab

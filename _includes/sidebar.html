@@ -13,16 +13,21 @@
       <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}"> Home </a>
 
       {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
+        Top-level entries: pages with `layout: page`, a title, and no `parent`.
+        Sub-entries: pages whose `parent` matches the title of a top-level page.
+        Add `nav: false` to a page's front matter to hide it from the menu.
       {% endcomment %}
 
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
+      {% for node in site.pages %}
+        {% if node.title and node.layout == "page" and node.parent == nil and node.nav != false %}
+          <a class="sidebar-nav-item{% if page.url == node.url or page.parent == node.title %} active{% endif %}" href="{{ node.url | relative_url }}">{{ node.title }}</a>
+
+          {% assign children = site.pages | where: "parent", node.title %}
+          {% for child in children %}
+            {% if child.title and child.nav != false %}
+              <a class="sidebar-nav-item sidebar-nav-child{% if page.url == child.url %} active{% endif %}" href="{{ child.url | relative_url }}">{{ child.title }}</a>
+            {% endif %}
+          {% endfor %}
         {% endif %}
       {% endfor %}
 
