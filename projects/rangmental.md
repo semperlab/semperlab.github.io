@@ -11,10 +11,20 @@ In this project, we explore why and how people achieve different positions in do
 We investigate how perceptions of warmth and competence shape these processes and how different ways of navigating social hierarchies affect mental health and psychological well-being across everyday life, clinical settings, and sports. Using experiments and repeated assessments of everyday experiences, we aim to better understand the complex links between social rank and mental health.
 
 
-
-
-
 > Funded by the European Union NextGeneration EU (NPOO, UNIRI, project RangMental uniri-iz-25-292)
+
+
+
+
+## Table of Contents
+
+- [Project description](#project-description)
+- [Publications](#publications)
+  - [Papers](#papers)
+  - [Conferences](#conferences)
+
+
+&nbsp;
 
 
 ## Project description

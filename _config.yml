@@ -1,12 +1,10 @@
 # Dependencies
+markdown:         kramdown
 highlighter:      rouge
 
 plugins:
   - jekyll-commonmark
 
-markdown: CommonMark
-commonmark:
-  extensions: ["autolink"]
 
 # Permalinks
 permalink:        pretty

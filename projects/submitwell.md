@@ -14,7 +14,20 @@ Focusing on emotional crying and other forms of submissive behavior, we investig
 > Funded by the Croatian Science Foundation (HRZZ), project SubmitWell IP-2025-02-1086
 
 
+## Table of Contents
 
+- [Project description](#project-description)
+- [Publications](#publications)
+  - [Papers](#papers)
+  - [Conferences](#conferences)
+- [Ongoing work](#ongoing-work)
+- [Members](#members)
+  - [Project members](#project-members)
+  - [Collaborators](#collaborators)
+
+
+
+&nbsp;
 
 
 ## Project description
