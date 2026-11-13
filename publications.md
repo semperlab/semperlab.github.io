@@ -18,6 +18,17 @@ title: Publications
 
 - Gračanin, A. (2026). Functions of emotional crying. In I. Macuka (Ed.), 24th Psychology Days in Zadar: Book of selected proceedings (pp. 21–39). University of Zadar. <https://doi.org/10.15291/9789533316055.02>
 
+- Anić, P. (2026). Uloga psiholoških potreba u odnosu ciljeva i dobrobiti adolescenata i osoba mlađe odrasle dobi. Psihologijske teme, 35(2), 391–410. <https://doi.org/10.31820/pt.35.2.10>
+
+- Anić, P., Kapelina, A., & Kukić, M. (2026). Orthorexic tendencies among Croatian athletes: Linking perfectionism, motivation, and body image to disordered eating. Journal of Clinical Sport Psychology. <https://doi.org/10.1123/jcsp.2025-0020>
+
+- Górski, M. R., Costin, V., Van Tilburg, W., Igou, E. R., Joshanloo, M., Sokolov, B., … Krys, K. (2026). Cultural variability in the link between affect and meaning in life: Evidence from 69 countries. Emotion. Advance online publication. 
+
+- Mohorić, T., Anić, P., Pokrajac-Bulian, A., & Benčić, A. (2026). Psychometric properties of the Croatian version of the EPOCH measure of adolescent well-being. Psihologija. Advance online publication. 
+
+- Sánchez-Rodríguez, Á., Górski, M. R., Joshanloo, M., Krys, K., Tønnessen, M., Li, L. M. W., Akaliyski, P., Haas, B. W., Hussain, M. A., Guemaz, F., Boussena, M., Iter, N., Vlasenko, O., Lun, V. M.-C., Vignoles, V. L., Aminnuddin, N. A., Işık, İ., Ngom-Dieng, L., Fülöp, M., … Bond, M. H. (2026). Mind the gap: Perceived economic inequality and the well-being gap around the globe. Social Psychological and Personality Science, 17(3), 383–399. <https://doi.org/10.1177/19485506251345937>
+
+
 
 
 ## 2025
@@ -28,10 +39,16 @@ title: Publications
 
 - Sánchez-Rodríguez, Á., Górski, M. R., Joshanloo, M., Krys, K., Tønnessen, M., Li, L. M. W., Akaliyski, P., Haas, B. W., Hussain, M. A., Guemaz, F., Boussena, M., Iter, N., Vlasenko, O., Lun, V. M.-C., Vignoles, V. L., Aminnuddin, N. A., Işık, İ., Ngom-Dieng, L., Fülöp, M., … Bond, M. H. (2026). Mind the gap: Perceived economic inequality and the well-being gap around the globe. Social Psychological and Personality Science, 17(3), 383–399. <https://doi.org/10.1177/19485506251345937>
 
+- Smieja, M., Walczak, A., Cacek, J., Górski, M. R., Bond, M. H., Gjoneska, B., Hussain, M. A., Joshanloo, M., Szumowska, E., Teyssier, J., Yeung, V. W. L., Haas, B. W., Guemaz, F., Boussena, M., Sánchez-Rodríguez, Á., Iter, N., Vlasenko, O., Lun, V. M.-C., Li, L. M. W., … Krys, K. (2025). Love, culture, and well-being: How values moderate the link between relationship status and well-being across 57 countries. International Journal of Intercultural Relations, 108, Article 102232. <https://doi.org/10.1016/j.ijintrel.2025.102232>
+
 
 
 
 ## 2024
+
+- Anić, P., & Tončić, M. (2024). Affect and satisfaction time dependency: An experience sampling study. PsyCh Journal, 13(3), 456–464. <https://doi.org/10.1002/pchj.763>
+
+- Anić, P., Mohorić, T., & Pokrajac-Bulian, A. (2024). Self-esteem and anxiety as mediators in the relationship between emotional intelligence and eating disorder symptoms. Psychological Reports. <https://doi.org/10.1177/00332941241269451>
 
 
 
@@ -40,11 +57,16 @@ title: Publications
 
 - Gračanin, A. (2023). Tears and mood: Intra-individual effects of emotional crying. Psihologijske teme, 32(3), 663–686. <https://doi.org/10.31820/pt.32.3.13>
 
+- Mohorić, T., Pokrajac-Bulian, A., Anić, P., Kukić, M., & Mohović, P. (2023). Emotion regulation, perfectionism, and eating disorder symptoms in adolescents: The mediating role of cognitive eating patterns. Current Psychology, 42(32), 28505–28516. <https://doi.org/10.1007/s12144-022-03824-2>
+
+
 
 
 ## 2022
 
 - Gračanin, A., Hendriks, M. C. P., & Vingerhoets, A. J. J. M. (2022). Crying does not alleviate acute pain perception: Evidence from an experimental study. European Journal of Pain, 6, 1380-1394. <https://doi.org/10.1002/ejp.1970> 
+
+
 
 
 
@@ -58,11 +80,17 @@ title: Publications
 
 - Kardum, I., Gračanin, A., Hudek-Knežević, J., & Blažić, B. (2021). Emotion regulation and romantic partners’ relationship satisfaction: Self-reports and partner reports. Psihologijske teme, 30, 145-159. <https://doi.org/10.31820/pt.30.1.8>
 
+- Kalebić Maglica, B., Anić, P., Švegar, D., & Mehonjić, H. (2021). Do personality traits have effect on performance in the presence of an audience? Polish Psychological Bulletin, 52(4), 356–364. <https://doi.org/10.24425/ppb.2021.139170>
+
+
 
 
 ## 2020
 
 - Picó, A., Gračanin, A., Gadea, M., Boeren, A., Aliño, M., & Vingerhoets, A. J. J. M. (2020). Sincerity, remorse, and punishment: How visible tears impact observers' judgments. Journal of Nonverbal Behavior, 44, 215–232. <https://doi.org/10.1007/s10919-019-00328-9>
+
+- Tončić, M., & Anić, P. (2020). Effects of momentary affect on satisfaction judgments: A between- and within-person longitudinal study. Journal of Individual Differences, 41(2), 61–67. <https://doi.org/10.1027/1614-0001/a000304>
+
 
 
 
@@ -72,6 +100,12 @@ title: Publications
 - Sharman, L. S., Dingle, G. A., Baker, M., Fischer, A., Gračanin, A., Kardum, I., Manley, H., Manokara, K., Pattara-Ankgoon, S., Vingerhoets, A. J. J. M., & Vanman, E. J. (2019). The relationship of gender roles and beliefs to crying in an international sample. Frontiers in Psychology. <https://doi.org/10.3389/fpsyg.2019.02288>
 
 - Gračanin, A., Kardum, I. i Gross, J. J. (2019). The Croatian version of the Emotion Regulation Questionnaire: Links with higher- and lower-level personality traits and mood. International Journal of Psychology, 55, 609-617. <https://doi.org/10.1002/ijop.12624>
+
+- Anić, P., Tončić, M., & Brdar, I. (2019). Learning-related activities: The immediate and delayed effects on subjective well-being. European Proceedings of Social and Behavioural Sciences, 72, 28–39. <https://doi.org/10.15405/epsbs.2019.11.3>
+
+- Pongrac, J., Mohorić, T., & Anić, P. (2019). Gender and national differences in emotional intelligence and empathy: Comparison of Croatian and Portuguese samples. Psihološka obzorja / Horizons of Psychology, 28, 19–27. <https://doi.org/10.20419/2019.28.497>
+
+
 
 
 
@@ -120,7 +154,9 @@ title: Publications
 
 ## 2015
 
-- Gračanin, A., Vingerhoets, A. J. J. M., Kardum, I., Zupčić, M., Šimić, M., & Šantek, M. (2015). Why crying does and sometimes does not seem to alleviate mood: A quasi-experimental study. Motivation and Emotion, 39, 953–960. <https://doi.org/10.1007/s11031-015-9507-9.>
+- Gračanin, A., Vingerhoets, A. J. J. M., Kardum, I., Zupčić, M., Šimić, M., & Šantek, M. (2015). Why crying does and sometimes does not seem to alleviate mood: A quasi-experimental study. Motivation and Emotion, 39, 953–960. <https://doi.org/10.1007/s11031-015-9507-9>
+
+- Tončić, M., & Anić, P. (2015). Everyday activities: Beneficial effects of eudaimonic and hedonic motivation on subjective well-being. Current Psychology, 34(4), 644–653. https://doi.org/10.1007/s12144-014-9277-7>
 
 
 
@@ -128,3 +164,5 @@ title: Publications
 ## 2014
 
 - Gračanin, A., Bylsma, L. M., & Vingerhoets, A. J. J. M. (2014). Is crying a self-soothing behavior? Frontiers in Psychology, 5, Article 502. <https://doi.org/10.3389/fpsyg.2014.00502>
+
+- Anić, P. (2014). Hedonic and eudaimonic motives for favourite leisure activities. Primenjena psihologija, 7(1), 5–21. <https://doi.org/10.19090/pp.2014.1.5-21>

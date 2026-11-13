@@ -52,7 +52,11 @@ We will conduct experimental and correlational studies, as well as the ecologica
 
 ### Papers
 
-- Sánchez-Rodríguez, Á., Górski, M. R., Joshanloo, M., Krys, K., Tønnessen, M., Li, L. M. W., Akaliyski, P., Haas, B. W., Hussain, M. A., Guemaz, F., Boussena, M., Iter, N., Vlasenko, O., Lun, V. M.-C., Vignoles, V. L., Aminnuddin, N. A., Işık, İ., Ngom-Dieng, L., Fülöp, M., … Bond, M. H. (2026). Mind the gap: Perceived economic inequality and the well-being gap around the globe. Social Psychological and Personality Science, 17(3), 383–399. https://doi.org/10.1177/19485506251345937
+- Gračanin, A. (2026). Functions of emotional crying. In I. Macuka (Ed.), 24th Psychology Days in Zadar: Book of selected proceedings (pp. 21–39). University of Zadar. <https://doi.org/10.15291/9789533316055.02>
+
+- Šimek, K. & Gračanin, A. (2026). Neverbalni pokazatelji dominacije i njihova funkcija u interpersonalnim odnosima. [Nonverbal Indicators of Dominance and Their Function in Interpersonal Relationships]. Psihologijske teme [Psychological Topics]. xxxxxx
+
+
 
 ### Conferences
 

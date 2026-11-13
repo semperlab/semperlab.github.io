@@ -55,11 +55,9 @@ We are testing the model through a series of empirical studies:
 
 ### Papers
 
-- Šimek, K. & Gračanin, A. (2026). Neverbalni pokazatelji dominacije i njihova funkcija u interpersonalnim odnosima. [Nonverbal Indicators of Dominance and Their Function in Interpersonal Relationships]. Psihologijske teme [Psychological Topics]. xxxxxx
+- Gračanin, A., Sznycer, D., & Lieberman, D. (2026). Emotional tears as a bargaining tactic of the weak: Experimental evidence from two countries. Psychological Topics, 35(1), 37–62. <https://doi.org/10.31820/pt.35.1.2>
 
-- Gračanin, A., Sznycer, D., & Lieberman, D. (2026). Emotional tears as a bargaining tactic of the weak: Experimental evidence from two countries. Psychological Topics, 35(1), 37–62. https://doi.org/10.31820/pt.35.1.2
-
-- Birovljević, G., Anić, P., & Gračanin, A. (2026). The role of the fear of positive evaluation in the relationship between social anxiety and the pride experience and expression. Evolutionary Psychology, 24(3). https://doi.org/10.1177/14747049261474482 
+- Birovljević, G., Anić, P., & Gračanin, A. (2026). The role of the fear of positive evaluation in the relationship between social anxiety and the pride experience and expression. Evolutionary Psychology, 24(3). <https://doi.org/10.1177/14747049261474482>
 
 
 
