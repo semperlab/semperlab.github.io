@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-<!-- # Post-doc Position in Social and Personality Psychology -->
 # Welcome to SEMPERLab
 
 We are SEMPERLab (Social, Emotion, and Personality Lab), a research group investigating the interplay between social, emotional, and motivational processes, particularly in the context of individual differences and their implications for well-being, with a strong emphasis on an evolutionary perspective.
